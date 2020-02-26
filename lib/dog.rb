@@ -37,5 +37,3 @@ class Dog
   end
 
 end
-
-
