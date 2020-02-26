@@ -28,5 +28,8 @@ class Dog
     ###
   end
 
+  def find_or_create_by
+    ###
+  end
 
 end
